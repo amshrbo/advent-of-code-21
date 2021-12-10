@@ -7,3 +7,7 @@
 > - Also if my solution isn't that optimal, I will add an optimal solution found online, besides my own.
 
 ---
+## Problems
+- [Day 01](./day-01):
+    - [problem 01](./day-01/p1/solution.py)
+    - [problem 02](./day-01/p2/solution.py)
