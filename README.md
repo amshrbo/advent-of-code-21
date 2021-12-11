@@ -8,6 +8,9 @@
 
 ---
 ## Problems
-- [Day 01](./day-01):
-    - [problem 01](./day-01/p1/solution.py)
-    - [problem 02](./day-01/p2/solution.py)
+- [Day 01 problem _Sonar Sweep_](./day-01):
+    - [problem 01](./day-01/solution_1.py)
+    - [problem 02](./day-01/solution_2.py)
+- [Day 02 problem _Dive_](./day-02):
+    - [problem 01](./day-02/solution_1.py)
+    - [problem 02](./day-02/solution_2.py)

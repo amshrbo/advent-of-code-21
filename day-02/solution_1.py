@@ -1,4 +1,4 @@
-## ouput of the test file = 12*11
+## ouput of the test file = 15*10
 
 horisontal = 0
 depth = 0
