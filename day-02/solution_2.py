@@ -1,7 +1,8 @@
-## ouput of the test file = 12*11
+## ouput of the test file = 99*12
 
 horisontal = 0
 depth = 0
+aim = 0
 
 with open('./input.txt', 'r') as file:
     for line in file:
@@ -14,10 +15,11 @@ with open('./input.txt', 'r') as file:
         
         if key_word == 'forward':
             horisontal += value
+            depth += aim * value
 
         elif key_word == 'down':
-            depth += value
+            aim += value            
         else:
-            depth -= value
+            aim -= value
 
 print(depth, horisontal, depth*horisontal)    
