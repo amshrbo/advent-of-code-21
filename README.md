@@ -14,3 +14,6 @@
 - [Day 02 problem _Dive_](./day-02):
     - [problem 01](./day-02/solution_1.py)
     - [problem 02](./day-02/solution_2.py)
+- [Day 03 problem _Binary Diagnostic_](./day-03):
+    - [problem 01](./day-03/solution_1.py)
+    - [problem 02](./day-03/solution_2.py)
