@@ -17,3 +17,6 @@
 - [Day 03 problem _Binary Diagnostic_](./day-03):
     - [problem 01](./day-03/solution_1.py)
     - [problem 02](./day-03/solution_2.py)
+- [Day 04 problem _Giant Squid_](./day-04):
+    - [problem 01](./day-04/solution_1.py)
+    - [problem 02](./day-04/solution_2.py)
