@@ -32,7 +32,6 @@ def get_data(file_path):
 
     return numbers, data
 
-####################
 
 def check_num(places, is_checked):
     '''
